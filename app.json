@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Mama Ngozi's",
+    "slug": "mama-ngozi-mobile",
+    "version": "1.0.0",
+    "scheme": "mamangozi",
+    "orientation": "portrait",
+    "android": { "package": "com.mamangozi.shop" },
+    "ios": { "bundleIdentifier": "com.mamangozi.shop" }
+  }
+}
