@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Mabrook Dates",
+    "slug": "mama-ngozi-mobile",
+    "owner": "aishatdev",
+    "version": "1.0.0",
+    "scheme": "mamangozi",
+    "orientation": "portrait",
+    "android": { "package": "com.mamangozi.shop" },
+    "ios": { "bundleIdentifier": "com.mamangozi.shop" }
+  }
+}
